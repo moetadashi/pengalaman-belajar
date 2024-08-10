@@ -18,5 +18,5 @@ Belajar kelas Memulai Pemrograman dengan Java. (Progres 100%)
 * Berlatih dengan membuat program untuk menghitung suhu air, vokal konsonan, dan bangun datar.
 * Mengerjakan ujian akhir untuk menilai kemahiran diri.
 
-Test commit 1
-Test commit 2
+Test commit 01
+Test commit 02

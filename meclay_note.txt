@@ -1,1 +1,2 @@
-Ini file yang dibuat oleh moeclay sebagai bahan pembelajaran fork github.
+Ini file yang dibuat oleh moeclay sebagai bahan pembelajaran fork github.  
+hanya ini yang diupdate pada latihan kali ini
